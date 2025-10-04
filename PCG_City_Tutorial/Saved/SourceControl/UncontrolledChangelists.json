@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/github/PCG-Module/PCG_City_Tutorial/Content/Map/L_PCG_City.umap",
+				"D:/github/PCG-Module/PCG_City_Tutorial/Content/PCG/BP_SplineCity.uasset",
+				"D:/github/PCG-Module/PCG_City_Tutorial/Content/PCG/PCG_SplineCity.uasset"
+			]
+		}
+	]
+}
