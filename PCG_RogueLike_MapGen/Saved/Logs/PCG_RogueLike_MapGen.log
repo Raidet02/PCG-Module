@@ -1261,3 +1261,38 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.19-18.12.35:729][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2758.359619
 [2025.10.19-18.12.36:729][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.19-18.12.36:729][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2759.026123, Update Interval: 356.740631
+[2025.10.19-18.13.07:156][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.19-18.13.07:241][337]LogStall: Shutdown...
+[2025.10.19-18.13.07:241][337]LogStall: Shutdown complete.
+[2025.10.19-18.13.07:316][337]LogSlate: Window 'PCG_RogueLike_MapGen - Unreal Editor' being destroyed
+[2025.10.19-18.13.07:433][337]Cmd: QUIT_EDITOR
+[2025.10.19-18.13.07:433][337]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.19-18.13.07:438][338]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.19-18.13.07:439][338]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.19-18.13.07:439][338]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.19-18.13.07:441][338]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.13.07:441][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.13.07:441][338]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Lvl_TopDown.Lvl_TopDown
+[2025.10.19-18.13.07:458][338]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.19-18.13.07:459][338]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.19-18.13.07:459][338]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.19-18.13.07:461][338]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.19-18.13.07:461][338]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.19-18.13.07:464][338]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.19-18.13.07:465][338]LogGameFeatures: Shutting down game features subsystem
+[2025.10.19-18.13.07:465][338]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.19-18.13.07:465][338]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.19-18.13.07:465][338]LogAudio: Display: Audio Device unregistered from world 'Lvl_TopDown'.
+[2025.10.19-18.13.07:465][338]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.19-18.13.07:465][338]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.19-18.13.07:467][338]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.19-18.13.07:475][338]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.19-18.13.07:475][338]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.19-18.13.07:476][338]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.10.19-18.13.07:478][338]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.19-18.13.07:479][338]LogExit: Preparing to exit.
+[2025.10.19-18.13.07:524][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.19-18.13.07:999][338]LogEditorDataStorage: Deinitializing
+[2025.10.19-18.13.08:113][338]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.19-18.13.14:337][338]LogExit: Editor shut down
+[2025.10.19-18.13.14:340][338]LogExit: Transaction tracking system shut down
