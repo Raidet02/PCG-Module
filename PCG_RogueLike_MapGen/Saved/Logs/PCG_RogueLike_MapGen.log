@@ -1258,3 +1258,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.19-18.06.47:581][199]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.10.19-18.07.17:514][289]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.10.19-18.08.19:498][475]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.19-18.12.35:729][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2758.359619
+[2025.10.19-18.12.36:729][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-18.12.36:729][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2759.026123, Update Interval: 356.740631
